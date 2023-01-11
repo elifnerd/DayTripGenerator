@@ -1,0 +1,2 @@
+# DayTripGenerator
+Randomized DayTrip Generator!
