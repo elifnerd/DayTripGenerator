@@ -29,3 +29,18 @@ print(day_trip_destination)
 print(day_trip_transportation)
 print(day_trip_entertainment)
 print(day_trip_restaurant)
+
+satisfactory_trip = "Yes"
+
+input("Does this sound good to you?")
+
+if satisfactory_trip != "Yes":
+    print("Congratulations. Get out there and have some fun!")
+else:
+    print("Lets try that again.")
+    print(day_trip_destination)
+    print(day_trip_transportation)
+    print(day_trip_entertainment)
+    print(day_trip_restaurant)
+
+
